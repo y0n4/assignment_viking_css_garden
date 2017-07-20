@@ -1,10 +1,14 @@
 /* ----------------------------------- *
  * Your Styles Here
  * ----------------------------------- */
+html {
+  background-color: #fff5d5;
+}
 
 
-
-
-
-
- 
+#main-header{
+  position: absolute;
+  float: left;
+  text-align: center;
+  border: solid 1px white;
+}
