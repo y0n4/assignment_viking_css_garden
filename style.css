@@ -6,9 +6,11 @@ html {
 }
 
 
-#main-header{
+.main-content-section{
   position: absolute;
   float: left;
   text-align: center;
+  font-family: Press Star 2P, monospace;
+  letter-spacing: 1px;
   border: solid 1px white;
 }
