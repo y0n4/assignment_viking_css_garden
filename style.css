@@ -5,22 +5,23 @@ html {
   background-color: #fff5d5;
 }
 
-#main-header{
+#main-header {
   text-align: center;
   font-family: Press Star 2P, monospace;
   letter-spacing: 1px;
   border: solid 1px black;
 }
 
-.main-content-section{
-  position: absolute;
-  float: left;
+h2 .section-title {
   text-align: center;
-  font-family: Press Star 2P, monospace;
-  letter-spacing: 1px;
-  border: solid 1px white;
+
 }
 
-h2 {
+p {
 
+}
+
+.main-content-section {
+  border: solid 1px black;
+  color: #ff5f6;
 }
