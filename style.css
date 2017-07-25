@@ -5,6 +5,12 @@ html {
   background-color: #fff5d5;
 }
 
+#main-header{
+  text-align: center;
+  font-family: Press Star 2P, monospace;
+  letter-spacing: 1px;
+  border: solid 1px black;
+}
 
 .main-content-section{
   position: absolute;
@@ -13,4 +19,8 @@ html {
   font-family: Press Star 2P, monospace;
   letter-spacing: 1px;
   border: solid 1px white;
+}
+
+h2 {
+
 }
