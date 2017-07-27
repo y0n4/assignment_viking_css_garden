@@ -14,13 +14,16 @@ html {
 }
 
 #main-header h1.site-title {
+  width: 100px;
+  height: 50px;
   background-color: #fff5d5;
   float: center;
-  margin-top: 50px;
+  position: absolute;
 }
 
 #main-header h2.tagline {
   font-size: 80%;
+  color: white;
 }
 
 .section-title {
