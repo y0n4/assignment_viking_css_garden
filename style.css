@@ -8,12 +8,12 @@ html {
 #main-header {
   background-color: black;
   font-family: 'Press Start 2P', cursive;
+  font: white;
   text-align: center;
-  font-color: white;
   letter-spacing: 1px;
   border: solid 1px white;
-  length: 200px;
-  height: 500px;
+  length: 100px;
+  height: 200px;
 }
 
 #main-header .tagline {
