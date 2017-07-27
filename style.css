@@ -58,6 +58,23 @@ html {
   font-family: 'Press Start 2p', cursive;
 }
 
+/*NEW NeW NEW NEW NEW NEW NEW*/
+#main-content div.float-image {
+  background-image: url("")
+  background-size: cover;
+  width: 450px;
+  height: 700px;
+  float: left;
+  margin: 0 20px 10px 0;
+}
+
+#main-content h2.section-title-2 {
+  font-family: 'Press Start 2P', cursive;;
+  letter-spacing: 1px;
+  color: white;
+  text-align: center;
+  margin: 300px 50px;
+}
 
 p {
   text-align: justify;
