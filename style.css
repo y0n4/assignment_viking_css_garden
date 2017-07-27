@@ -2,7 +2,7 @@
  * Your Styles Here
  * ----------------------------------- */
 html {
-  background-color: #fff5d5;
+  background-color: white;
 }
 
 #main-header {
@@ -37,7 +37,7 @@ html {
 
 /* MAIN CONTENT MAIN CONTENT MAIN CONTENT*/
 #main-content {
-  margin-top: 200px;
+  padding: 200px 0;
   color: black;
   text-align: center;
 }
@@ -47,12 +47,12 @@ html {
   border: 1px solid black;
   padding: 30px;
   margin: auto;
+  background-color: #93D992;
 }
 
 #main-content h2.section-title {
   text-align: center;
   font-family: 'Press Start 2p', cursive;
-  font-size: 20px;
 }
 
 
