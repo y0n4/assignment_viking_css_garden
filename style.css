@@ -10,20 +10,22 @@ html {
   text-align: center;
   letter-spacing: 1px;
   background-color: black;
+  background-image: url(http://68.media.tumblr.com/1cb64256e6d0352201c7b7fb5cef7619/tumblr_opfrqsUKNr1w9snk2o1_1280.gif);
+  background-size: cover;
 }
 
 #main-header h1.site-title {
   padding: 200px;
+  font-size: 150%;
 }
 
 #main-header h1.site-title div.box-title {
-  color: black;
-  padding: 10px;
-  border: 1px solid white;
+  color: white;
+  margin: auto;
+  padding: 30px;
+  width: 150px;
+  height: 90px;
   border-radius: 10px;
-  background-color: #fff5d5;
-  background-image: url(http://data.whicdn.com/images/288105390/original.gif);
-}
 
 #main-header h2.tagline {
   font-size: 80%;
