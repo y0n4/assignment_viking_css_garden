@@ -37,9 +37,12 @@ html {
 
 /* MAIN CONTENT MAIN CONTENT MAIN CONTENT*/
 #main-content {
-  padding: 200px 0;
   color: black;
   text-align: center;
+}
+
+#main-content section.main-content-section {
+  padding: 200px;
 }
 
 #main-content div.box1 {
