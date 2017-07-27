@@ -34,23 +34,28 @@ html {
   padding-bottom: 20px;
 }
 
-#main-content section.main-content-section {
-  border: solid 1px black;
-  color: #ff5f6;
+
+/* MAIN CONTENT MAIN CONTENT MAIN CONTENT*/
+#main-content {
+  margin-top: 200px;
+  color: black;
+  text-align: center;
 }
 
 #main-content div.box1 {
-  float: left;
-  width: 300px;
+  width: 500px;
+  border: 1px solid black;
+  padding: 30px;
+  margin: auto;
 }
 
 #main-content h2.section-title {
   text-align: center;
   font-family: 'Press Start 2p', cursive;
+  font-size: 20px;
 }
 
 
 p {
-  margin: 20px 20px;
   text-align: justify;
 }
