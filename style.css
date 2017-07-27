@@ -16,7 +16,7 @@ html {
 
 #main-header h1.site-title {
   padding: 200px;
-  font-size: 150%;
+  font-size: ;
 }
 
 #main-header h1.site-title div.box-title {
@@ -26,6 +26,7 @@ html {
   width: 150px;
   height: 90px;
   border-radius: 10px;
+}
 
 #main-header h2.tagline {
   font-size: 80%;
@@ -33,17 +34,23 @@ html {
   padding-bottom: 20px;
 }
 
-.section-title {
+#main-content section.main-content-section {
+  border: solid 1px black;
+  color: #ff5f6;
+}
+
+#main-content div.box1 {
+  float: left;
+  width: 300px;
+}
+
+#main-content h2.section-title {
   text-align: center;
   font-family: 'Press Start 2p', cursive;
 }
 
+
 p {
   margin: 20px 20px;
   text-align: justify;
-}
-
-.main-content-section {
-  border: solid 1px black;
-  color: #ff5f6;
 }
