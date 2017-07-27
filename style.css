@@ -1,29 +1,32 @@
 /* ----------------------------------- *
  * Your Styles Here
  * ----------------------------------- */
-html {
-  background-color: #fff5d5;
-}
+ html {
+   background-color: #fff5f5;
+ }
 
-#main-header {
-  background-color: black;
-  font-family: 'Press Start 2P', cursive;
-  text-align: center;
-  letter-spacing: 1px;
-  height: 500px;
-}
+ #main-header {
+   font-family: 'Press Start 2P', cursive;
+   text-align: center;
+   letter-spacing: 1px;
+   background-color: black;
+ }
 
-#main-header h1.site-title {
-  width: 200px;
-  height: 150px;
-  background-color: #fff5d5;
-  padding: 10px;
-}
+ #main-header h1.site-title {
+   border: solid black;
+   border-width: 170px;
+   border-height: 100px;
+   padding: 10px;
+   background-color: #fff5f5;
+   min-width: 25%;
+ }
 
-#main-header h2.tagline {
-  font-size: 80%;
-  color: white;
-}
+ #main-header h2.tagline {
+   color: white;
+   font-size: 80%;
+   margin: 15%;
+   padding-bottom: 20px;
+ }
 
 .section-title {
   text-align: center;
