@@ -6,17 +6,19 @@ html {
 }
 
 #main-header {
-  background-color: black;
   font-family: 'Press Start 2P', cursive;
-  font: white;
+  color: white;
   text-align: center;
   letter-spacing: 1px;
-  border: solid 1px white;
-  length: 100px;
-  height: 200px;
 }
 
-#main-header .tagline {
+#main-header h1.site-title {
+  background-color: black;
+  height: 200px;
+  width: 500px;
+}
+
+#main-header h2.tagline {
   font-size: 20%;
   font-weight: 100;
 }
