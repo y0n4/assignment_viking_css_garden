@@ -69,7 +69,7 @@ html {
 }
 
 #main-content h2.section-title-2 {
-  font-family: 'Press Start 2P', cursive;;
+  font-family: 'Press Start 2P', cursive;
   letter-spacing: 1px;
   color: white;
   text-align: center;
@@ -130,10 +130,6 @@ p {
 #sidebar li.nav-link-list-item {
   display: inline-block;
   margin: 0 5px;
-}
-
-#sidebar ul.nav-links {
-  color:
 }
 
 #sidebar a {
