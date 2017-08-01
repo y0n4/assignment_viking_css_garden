@@ -58,7 +58,7 @@ html {
   font-family: 'Press Start 2p', cursive;
 }
 
-/*NEW NeW NEW NEW NEW NEW NEW*/
+/*MAIN CONTENT CONT PARAGRAPH 2 PARAGRAH 2*/
 #main-content div.float-image {
   background-image: url(https://s-media-cache-ak0.pinimg.com/originals/c7/73/9f/c7739f14aa1465e7f825841b0bdcfd9f.gif);
   background-size: cover;
@@ -81,6 +81,12 @@ p {
 }
 
 /*BOTTOM PARAGRAPH BOTTOM PARAGRAPH BOTTOM PARAGRAPH*/
+
+#main-content section.main-content-section-2 {
+  max-width: 1500px;
+  margin: auto;
+}
+
 #main-content div.float-image {
   background-image: url(https://s-media-cache-ak0.pinimg.com/originals/c7/73/9f/c7739f14aa1465e7f825841b0bdcfd9f.gif);
   background-size: cover;
@@ -109,11 +115,13 @@ p {
 }
 
 #sidebar div.menu-box {
+  margin: auto;
   border: 1px solid black;
-  background-image: url(https://68.media.tumblr.com/d17e7b9c7f5373d62bd76fcbd2d6a8fd/tumblr_ohmbfn3AwB1vlmq9yo1_500.gif);
+  background-image: url(http://68.media.tumblr.com/09c6d90170076846bdb19de05e08a8ca/tumblr_ol3lldvM801qze3hdo1_r1_500.gif);
   background-size: 100%;
   background-color: #8CD18B;
   height: 100px;
+  max-width: 550px;
 }
 
 #sidebar h2.section-title {
