@@ -79,3 +79,69 @@ html {
 p {
   text-align: justify;
 }
+
+/*BOTTOM PARAGRAPH BOTTOM PARAGRAPH BOTTOM PARAGRAPH*/
+#main-content div.float-image {
+  background-image: url(https://s-media-cache-ak0.pinimg.com/originals/c7/73/9f/c7739f14aa1465e7f825841b0bdcfd9f.gif);
+  background-size: cover;
+  width: 450px;
+  height: 700px;
+  float: left;
+  margin: 0 20px 10px 0;
+}
+
+#main-content h2.section-title-2 {
+  font-family: 'Press Start 2P', cursive;
+  letter-spacing: 1px;
+  color: white;
+  text-align: center;
+  margin: 300px 50px;
+}
+
+p {
+  text-align: justify;
+}
+
+/*BOTTOM MENU MENU MENU MENU MENU MENU*/
+
+#sidebar {
+  margin-top: 200px;
+}
+
+#sidebar div.menu-box {
+  border: 1px solid black;
+  background-image: url(https://68.media.tumblr.com/d17e7b9c7f5373d62bd76fcbd2d6a8fd/tumblr_ohmbfn3AwB1vlmq9yo1_500.gif);
+  background-size: 100%;
+  background-color: #8CD18B;
+  height: 100px;
+}
+
+#sidebar h2.section-title {
+ font-family: 'Press Start 2P', cursive;
+ text-align: center;
+ color: white;
+}
+
+#sidebar nav.sidebar-nav {
+  text-align: center;
+  font-size: 14px;
+}
+
+#sidebar li.nav-link-list-item {
+  display: inline-block;
+  margin: 0 5px;
+}
+
+#sidebar ul.nav-links {
+  color:
+}
+
+#sidebar a {
+  text-decoration: none;
+  color: white;
+}
+
+#sidebar a:hover {
+  color: black;
+  font-weight: bold;
+}
